@@ -21,3 +21,5 @@ input.addEventListener("input", () => {
   lowerCaseOutput.innerText = input.value.toLowerCase();
   upperCaseOutput.innerText = input.value.toUpperCase();
 });
+
+for testing only
